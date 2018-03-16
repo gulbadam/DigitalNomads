@@ -198,7 +198,7 @@ function buildIWContent(place) {
     // to give a short URL for displaying in the info window.
     if (place.website) {
         var fullUrl = place.website;
-        var website = hostnameRegexp.exec(place.website);
+
         if (website === null) {
             website = "http://" + place.website + "/";
             fullUrl = website;
