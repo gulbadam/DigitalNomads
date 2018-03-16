@@ -60,7 +60,7 @@
 }
 
 #head-bar {
-    height: 60px;
+    height: 4rem;
     background-color: #562D67;
 }
 
@@ -78,7 +78,6 @@ footer {
 }
 
 #header-image {
-    width: 2000px;
     margin-bottom: 4rem;
     background-color: #562D67;
     width: 100%;
