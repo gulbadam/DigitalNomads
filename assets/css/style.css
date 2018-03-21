@@ -29,7 +29,6 @@
     margin-left: 10px;
     margin-bottom: 2px;
     margin-top: 6px;
-    text-decoration-style: bold;
 }
 
 .food-price {
@@ -83,14 +82,6 @@ footer {
     width: 100%;
 }
 
-.container3 {
-    margin: auto;
-    width: 100%;
-    z-index: 20;
-    background-color: white;
-    opacity: 0.76;
-}
-
 .container2 {
     text-align: center;
     z-index: 20;
@@ -108,7 +99,6 @@ form {
 
 p {
     font-size: 0.7rem;
-    text-decoration-style: bold;
     margin-left: 7px;
     margin-right: 10px;
     padding-top: 6px;
@@ -197,7 +187,6 @@ input {
     font-family: 'helvetica', 'gotham', sans-serif;
     border: none;
     font-size: 10px;
-    text-decoration-style: bold;
 }
 
 #map {
@@ -222,7 +211,6 @@ input {
     margin-left: 10px;
     margin-bottom: 2px;
     margin-top: 4px;
-    text-decoration-style: bold;
 }
 
 #mainInfo {

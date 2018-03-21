@@ -437,9 +437,9 @@ $(document).ready(function() {
         userCity = $("input")
             .val()
             .trim();
-        var localUserCity = userCity;
-        localStorage.clear();
-        localStorage.setItem("city", localUserCity);
+        //var localUserCity = userCity;
+        //localStorage.clear();
+        //localStorage.setItem("city", localUserCity);
 
         $("#mainInfo").removeClass("invisible");
         $('#map-container').removeClass('invisible');
